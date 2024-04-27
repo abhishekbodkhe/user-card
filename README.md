@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
   <li> Tailwind CSS</li>
 
 ## screenshot 
-<img src="https://github.com/abhishekbodkhe/user-card/blob/main/card.jpg?raw=true" alt="GitHub Logo" style="max-width: 50%;">
+<img src="https://github.com/abhishekbodkhe/user-card/blob/main/card1.jpg?raw=true" alt="GitHub Logo" style="max-width: 50%;">
 
 ## Credits
 This project is created by Abhishek Bodkhe.
